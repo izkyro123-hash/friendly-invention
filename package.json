@@ -1,0 +1,17 @@
+{
+  "name": "obsidian-network-bot",
+  "version": "1.0.0",
+  "description": "Bot oficial de Oʙsɪᴅɪᴀɴ | Nᴇᴛᴡᴏʀᴋ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.2",
+    "minecraft-server-util": "^5.2.0"
+  }
+}
